@@ -1,4 +1,4 @@
-# IMHelper
+# Xamarin Helpers
 Helper classes for xamarin android development
 
 I Have created and collected several helper class which will help you to speedup your xamarin based  app development . 
